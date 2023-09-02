@@ -10,7 +10,7 @@ This MATLAB code is a versatile "Voice Recording and Analysis Tool" with a Graph
 
 This tool is designed to simplify the process of audio recording and analysis, making it accessible for various applications, from voice memos to music production.
 
-The MATLAB code performs the following actions: (audio_recording.m)
+The MATLAB code (audio_recording.m) performs the following actions:
 1. Initialization and Setup:
    - Clears all existing variables and figures.
    - Sets the default font size for plot axes to 20.
@@ -35,12 +35,13 @@ The MATLAB code performs the following actions: (audio_recording.m)
    - Saves the recorded audio as a WAV file with the timestamp in the filename.
    - Displays a message indicating the filename where the recording was saved.
 
-7. **Plotting the Spectrogram:**
+7. Plotting the Spectrogram:
    - Creates Figure 2 and generates a spectrogram of the recorded speech using the `spectrogram` function.
    - Sets appropriate titles, labels, and font sizes for the spectrogram plot.
 
-8. **Playback of Recorded Audio:**
+8. Playback of Recorded Audio:
    - Creates a message box prompting the user to click "OK" to play back the recorded audio.
    - When the user clicks "OK," the code plays back the recorded audio using the `play` function.
 
-Overall, this code records your voice for 5 seconds, visualizes the waveform and spectrogram of the recorded speech, saves the recording to a WAV file with a timestamp, and allows you to play back the recorded audio. It's a basic voice recording and analysis tool in MATLAB.
+it records your voice for 5 seconds, visualizes the waveform and spectrogram of the recorded speech, saves the recording to a WAV file with a timestamp, and allows you to play back the recorded audio. 
+It's a basic voice recording and analysis tool in MATLAB.
