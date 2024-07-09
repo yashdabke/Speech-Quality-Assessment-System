@@ -1,4 +1,4 @@
-#MATLAB Voice Recording and Analysis with Customization and Playback
+# MATLAB Voice Recording and Analysis with Customization and Playback
 
 This MATLAB code is a versatile "Voice Recording and Analysis Tool" with a Graphical User Interface (GUI). It allows users to record audio, customize recording parameters (duration, sample rate, format), play back recorded audio, visualize it as a waveform and spectrogram, and save the recording with a timestamped filename. This tool simplifies the process of recording and analyzing audio, making it user-friendly and adaptable to various recording needs.
 
